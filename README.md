@@ -9,10 +9,9 @@ Communication_Emotion_Bot
 
 
 ## System Architecture (BEFORE)
-![sys_arc](https://user-images.githubusercontent.com/52673977/73717132-40538480-475c-11ea-8513-fb641a1aa128.png)
+<img src="https://user-images.githubusercontent.com/52673977/73717132-40538480-475c-11ea-8513-fb641a1aa128.png" width="800" height="500" />
 ## System Architecture (AFTER)
-![System Architecture](https://user-images.githubusercontent.com/52377778/86989541-962dcc00-c1d5-11ea-8c95-35a59bc03dde.PNG)
-
+<img src="https://user-images.githubusercontent.com/52377778/86989541-962dcc00-c1d5-11ea-8c95-35a59bc03dde.PNG" width="800" height="500" />
 ## Hardware Architecture
 <img width="582" alt="hw" src="https://user-images.githubusercontent.com/52673977/77333956-83e36b80-6d67-11ea-809c-83a00d6180e6.png">
 

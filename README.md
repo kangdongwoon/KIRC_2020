@@ -38,6 +38,6 @@
 <img width="582" alt="hw" src="https://user-images.githubusercontent.com/52673977/77333956-83e36b80-6d67-11ea-809c-83a00d6180e6.png">  
   
 ## Project GIF  
-학습프로그램 GUI
+학습프로그램 GUI  
 ![Comebot](https://user-images.githubusercontent.com/52377778/86989198-da6c9c80-c1d4-11ea-82a9-291e643d15d4.gif)  
 

@@ -1,0 +1,1 @@
+{"loss": [NaN], "categorical_crossentropy": [NaN], "mean_q": [NaN], "mean_eps": [NaN], "episode_reward": [10.0], "nb_episode_steps": [20], "nb_steps": [20], "metrics": [[NaN, NaN, NaN, NaN]], "episode": [0], "duration": [125.56081450900001]}
